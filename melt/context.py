@@ -1,6 +1,9 @@
 """
 Author: michpaulatto
 GitHub: ElasticC
+
+Codes and Jupyter notebook examples are modified from: https://github.com/michpaulatto/ElasticC/tree/master
+
 """
 
 import os
